@@ -1,5 +1,5 @@
 
-- 👋 &nbsp; Hi, I’m **@kazbeksultanov**
+- 👋 &nbsp; Hi, I’m Kazbek
 - 👀 &nbsp; I’m interested in mobile app development specially **flutter**, **dart**
 - 🌱 &nbsp; I’m currently learning flutter and some backend
 - 💞️ &nbsp; I’m looking to collaborate on flutter projects
