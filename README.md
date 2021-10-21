@@ -1,6 +1,6 @@
 
-- 👋 &nbsp; Hi, I’m @kazbeksultanov
-- 👀 &nbsp; I’m interested in mobile app development specially flutter, dart
+- 👋 &nbsp; Hi, I’m **@kazbeksultanov**
+- 👀 &nbsp; I’m interested in mobile app development specially **flutter**, **dart**
 - 🌱 &nbsp; I’m currently learning flutter and some backend
 - 💞️ &nbsp; I’m looking to collaborate on flutter projects
 - 📫 &nbsp; How to reach me? The best is to write in Telegram https://t.me/sultanov_k
